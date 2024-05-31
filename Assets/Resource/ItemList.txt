@@ -1,0 +1,94 @@
+### Weapons
+1. **Melee Weapons:**
+   - Wooden Club
+   - Stone Axe
+   - Iron Sword
+   - Spear
+   - Machete
+   - Hunting Knife
+   - Bat with Nails
+
+2. **Ranged Weapons:**
+   - Bow and Arrows
+   - Slingshot
+   - Crossbow
+   - Throwing Knives
+   - Javelin
+   - Blowgun with Darts
+
+3. **Firearms (if applicable):**
+   - Handgun
+   - Shotgun
+   - Hunting Rifle
+   - Assault Rifle
+   - Sniper Rifle
+
+4. **Improvised Weapons:**
+   - Broken Bottle
+   - Metal Pipe
+   - Rock in a Sock
+   - Chainsaw
+   - Molotov Cocktail
+
+### Food
+1. **Foraged Food:**
+   - Berries (e.g., blueberries, raspberries)
+   - Mushrooms
+   - Wild Herbs (e.g., basil, mint)
+   - Nuts (e.g., acorns, walnuts)
+   - Roots and Tubers (e.g., wild carrots, potatoes)
+
+2. **Hunted Food:**
+   - Small Game (e.g., rabbits, squirrels)
+   - Large Game (e.g., deer, boar)
+   - Fish (e.g., trout, salmon)
+   - Birds (e.g., ducks, pheasants)
+
+3. **Gathered Food:**
+   - Edible Plants (e.g., dandelions, cattails)
+   - Honey
+   - Eggs (from wild birds or domesticated chickens)
+   - Seaweed (if near a coastal area)
+
+4. **Preserved Food:**
+   - Jerky
+   - Dried Fruit
+   - Pickled Vegetables
+   - Salted Fish
+   - Hardtack (simple, long-lasting biscuit)
+
+### Crafting Items
+1. **Basic Materials:**
+   - Wood
+   - Stone
+   - Flint
+   - Clay
+   - Fiber (e.g., plant fibers, sinew)
+
+2. **Advanced Materials:**
+   - Iron
+   - Steel
+   - Leather
+   - Cloth
+   - Rope
+
+3. **Components:**
+   - Nails
+   - Bolts
+   - Springs
+   - Gears
+   - Wires
+
+4. **Tools:**
+   - Hammer
+   - Saw
+   - Knife
+   - Shovel
+   - Chisel
+
+5. **Survival Gear:**
+   - Tent Fabric
+   - Fire Starter Kit (e.g., flint and steel)
+   - Water Purification Tablets
+   - First Aid Kit Components (e.g., bandages, antiseptics)
+   - Backpack Straps
